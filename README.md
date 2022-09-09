@@ -2,7 +2,7 @@
 
  
 
-#### This project is about the biography of Diana, Version Date: 9th Sept 2022
+#### This project is about the biography of Esther, Version Date: 9th Sept 2022
 
  
 
@@ -44,7 +44,10 @@ There are no known bugs on this project.
 
 ## Technologies Used
 
- 
+ HTML
+ CSS
+ GIT & GITHUB
+
 
 Languages used include HTML and CSS. I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding.
 
