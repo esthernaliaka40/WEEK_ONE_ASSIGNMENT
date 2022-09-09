@@ -2,7 +2,7 @@
 
  
 
-#### This project is about the biography of Diana, Version Date: 9th Sept 2022
+#### This project is about the biography of Esther, Version Date: 9th Sept 2022
 
  
 
