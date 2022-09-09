@@ -11,9 +11,6 @@ Esther Naliaka Siranjofu
 The project is all about Esther's biography , Version Date :9th Sept 2022
 
 
-#### This project is about the biography of Esther, Version Date: 9th Sept 2022
-
- 
 
 #### By **Esther Naliaka**
 
