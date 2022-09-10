@@ -66,5 +66,11 @@ img
 {float: inline-end;}
 img
 {float: left;}
+
+h2 {font-size: medium;
+
+font-variant: normal;
+
+text-underline-offset: ;}
   
    
