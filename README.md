@@ -14,15 +14,15 @@ This is a project about the biography of Esther, the purpose and usage of the pr
 
 #### Setup/Installation Requirements
 
-- This is a great place to be, to learn more on Esther
+- gut clone https://github.com/esthernaliaka40/WEEK_ONE_ASSIGNMENT.git
 
-- You will learn on Esther's Background including education, job experience etc.
+- open the cloned code on vs code
 
-- You will learn on Esther's reason for doing the course.
+- Run with live server
 
-- The project is easy-to-understand
+##### Live link
 
-- Just click on the hyperlinks that will direct you to view Github projects.
+https://esthernaliaka40.github.io/WEEK_ONE_ASSIGNMENT.git
 
 ##### Technologies Used
 
