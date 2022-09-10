@@ -57,6 +57,14 @@ h1 {
     text-align: left;
   
   }
+img
+{float: left;}
 
+img
+{float:right;}
+img
+{float: inline-end;}
+img
+{float: left;}
   
    
