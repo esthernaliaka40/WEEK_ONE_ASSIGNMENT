@@ -12,7 +12,7 @@ The project is all about Esther's biography , Version Date :9th Sept 2022
 
 This is a project about the biography of Esther, the purpose and usage of the project is to state more information on Esther's hobbies, interests and skills. This project is my first assignment for week one and I will explain the list of projects that I have been creating using visual studio code, git bash and the uploading on Github.
 
-## Setup/Installation Requirements
+#### Setup/Installation Requirements
 
 - This is a great place to be, to learn more on Esther
 
@@ -24,7 +24,7 @@ This is a project about the biography of Esther, the purpose and usage of the pr
 
 - Just click on the hyperlinks that will direct you to view Github projects.
 
-## Technologies Used
+##### Technologies Used
 
  HTML
  CSS
@@ -33,22 +33,14 @@ This is a project about the biography of Esther, the purpose and usage of the pr
 
 Languages used include HTML and CSS. I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding.
 
- 
-
-## Support and contact details
-
- 
+###### Support and contact details
 
 If you need any assistance on any issues or have questions, ideas or concerns. Kindly contact me through email: esthernaliaka40@gmail.com to make a contribution to the code or for any assistance on the app/project.
 
- 
 
-### License
-
- 
+###### License
 
 _The License used is GPL_
 
  
-
 Copyright (c) 2022 **Esther Naliaka**
