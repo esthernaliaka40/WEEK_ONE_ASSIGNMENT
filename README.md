@@ -22,7 +22,7 @@ This is a project about the biography of Esther, the purpose and usage of the pr
 
 ##### Live link
 
-https://esthernaliaka40.github.io/WEEK_ONE_ASSIGNMENT.git
+https://esthernaliaka40.github.io/WEEK_ONE_ASSIGNMENT
 
 ##### Technologies Used
 
